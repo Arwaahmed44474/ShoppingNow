@@ -4,8 +4,7 @@ An e-commerce website where users can browse products by category, view product 
 
 **Live demo:** https://shopping-now-pearl.vercel.app/
 
-![Screenshot of the home page](./screenshot.png)
-<img width="1897" height="896" alt="screenshot" src="https://github.com/user-attachments/assets/c6f1f4aa-a4fb-4f0e-919e-ef7219da4069" />
+
 
 ## Features
 - Browse products by category
